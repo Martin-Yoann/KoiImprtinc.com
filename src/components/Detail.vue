@@ -3,7 +3,7 @@
       <div></div>
       <div></div>
       <div>
-        Email: <span>cs@KoiImprtinc.com</span>
+        Email: <span>cs@koiimporterinc.com</span>
       </div>
     </div>
   </template>

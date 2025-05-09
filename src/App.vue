@@ -5,7 +5,7 @@
         <!-- <router-link to="/">HOME</router-link> -->
       </div>
       <div class="navLogo">
-        <h1>Koi Importer Inc</h1>
+        <h1>PrecisionHelp</h1>
         <router-link to="/">
           <!-- westseainc -->
         </router-link>
